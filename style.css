@@ -16,6 +16,34 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     background-color: var(--light-gray);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: var(--white);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px 0px rgba(66, 68, 90, 0.25);
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.qr-code-image {
+    width: 100%;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.container h1 {
+    color: var(--dark-blue);
+}
+
+.container p {
+    color: var(--grayish-blue);
 }
 
 .attribution {
