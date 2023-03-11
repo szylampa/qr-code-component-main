@@ -11,12 +11,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[./images/127.0.0.1_5500_.png]
+(./images/127.0.0.1*5500*.png)
 
 ### Links
 
-- Solution URL: [https://qr-code-component-sl.netlify.app/]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://qr-code-component-sl.netlify.app/
+- Live Site URL: https://qr-code-component-sl.netlify.app/
 
 ### Built with
 
